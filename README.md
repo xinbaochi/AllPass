@@ -1,6 +1,6 @@
 # AllPass
 
-##調用
+## 調用
 
  頁首
 <?php include("part/header.php"); ?>
@@ -9,14 +9,14 @@
 <?php include("part/footer.php"); ?>
 
 
-##資料夾說明 
+## 資料夾說明 
 
 content -- 調用內容
 part    -- 主要部件
 source  -- 資源 (css/font/img/js)
 
 
-##檔案
+## 檔案
 
 style.css -- 主要樣式表
 
