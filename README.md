@@ -3,19 +3,24 @@
 ## 調用
 
  頁首
- <code> 
+ 
+ <pre><code>
+ 
 <?php include("part/header.php"); ?>
- </code>  
- <pre><code>tell application "Foo"
-    beep
-end tell
+
 </code></pre>
- 
+
+
+
  頁尾
- <code> 
-<?php include("part/footer.php"); ?>
  
- </code> 
+  <pre><code>
+ 
+<?php include("part/footer.php"); ?>
+
+</code></pre>
+
+
 
 
 ## 資料夾說明 
