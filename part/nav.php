@@ -1,6 +1,6 @@
 <nav class="cyan lighten-1" role="navigation">
 
-     <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">All Pass</a>
+     <div class="nav-wrapper container"><a id="logo-container" href="./" class="brand-logo">All Pass</a>
        
        
        
