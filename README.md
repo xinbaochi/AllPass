@@ -6,7 +6,10 @@
  <code> 
 <?php include("part/header.php"); ?>
  </code>  
- 
+ <pre><code>tell application "Foo"
+    beep
+end tell
+</code></pre>
  
  頁尾
  <code> 
