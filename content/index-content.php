@@ -1,3 +1,3 @@
-<a href="coreclass-content.php"><a class="waves-effect waves-light btn-large">核心通識</a></a>
-<a href="boyaclass-content.php"><a class="waves-effect waves-light btn-large">博雅通識</a></a>
+<a class="waves-effect waves-light btn-large" href=".\coreclass.php">核心通識</a>
+<a class="waves-effect waves-light btn-large" href=".\boyaclass.php">博雅通識</a>
 
