@@ -1,5 +1,8 @@
 # AllPass
 
+
+
+
 ## 調用
 
  頁首
@@ -31,6 +34,8 @@ source  -- 資源 (css/font/img/js)
 
 
 ## 檔案
+
+任何檔案網頁連結請使用相對路徑!!!
 
 style.css -- 主要樣式表
 <br>
