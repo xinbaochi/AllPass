@@ -16,13 +16,12 @@
  
   <pre><code>
  
-<?php include("part/footer.php"); ?>
+
 
 </code></pre>
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+```
+<?php include("part/footer.php"); ?>
 ```
 
 ```python
