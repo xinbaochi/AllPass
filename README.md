@@ -3,10 +3,14 @@
 ## 調用
 
  頁首
+ <code> 
 <?php include("part/header.php"); ?>
-
+<code> 
+ 
+ 
  頁尾
-<?php include("part/footer.php"); ?>
+ <code> 
+<?php include("part/footer.php"); ?><code> 
 
 
 ## 資料夾說明 
