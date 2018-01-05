@@ -1,4 +1,4 @@
-<nav class="light-blue lighten-1" role="navigation">
+<nav class="cyan lighten-1" role="navigation">
      <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">All Pass</a>
        <ul class="right hide-on-med-and-down">
          <li><a href="#">課程資訊</a></li>
