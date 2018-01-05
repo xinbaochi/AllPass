@@ -1,3 +1,8 @@
+html {
+    font-size: 14px;
+    font-family: "微軟正黑體","Roboto", sans-serif !important;
+}
+
 .page-footer {
     margin-top: 500px; }
 

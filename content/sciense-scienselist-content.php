@@ -1,3 +1,7 @@
-<a href=".\classinfo.php" class="waves-effect waves-light btn-large">科普讀物導讀</a> 胡忠信 <img src="like.jpg"><br>
-<HR width="20%"  align="left">
-<a href=".\classinfo.php" class="waves-effect waves-light btn-large">科普讀物導讀</a> 洪鼎惟 <img src="like.jpg"><br>
+<ul class="collection with-header">
+<li class="collection-header"><h4>課程列表</h4></li>
+<li class="collection-item"><div>Alvin<a href="#!" class="secondary-content"><i class="material-icons">favorite</i></a></div></li>
+<li class="collection-item"><div>Alvin<a href="#!" class="secondary-content"><i class="material-icons">favorite_border</i></a></div></li>
+<li class="collection-item"><div>Alvin<a href="#!" class="secondary-content"><i class="material-icons">favorite</i></a></div></li>
+<li class="collection-item"><div>Alvin<a href="#!" class="secondary-content"><i class="material-icons">favorite_border</i></a></div></li>
+</ul>
