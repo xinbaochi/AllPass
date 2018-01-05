@@ -5,12 +5,14 @@
  頁首
  <code> 
 <?php include("part/header.php"); ?>
-<code> 
+ </code>  
  
  
  頁尾
  <code> 
-<?php include("part/footer.php"); ?><code> 
+<?php include("part/footer.php"); ?>
+ 
+ </code> 
 
 
 ## 資料夾說明 
