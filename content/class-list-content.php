@@ -1,3 +1,5 @@
+<div class="container index-content">
+
 <ul class="collection with-header">
 <li class="collection-header"><h4>課程列表</h4></li>
 <li class="collection-item"><div>
@@ -9,3 +11,6 @@
 	&nbsp&nbsp<a href=".\class-info.php">洪鼎惟</a>
 	<a href="#!" class="secondary-content"><i class="material-icons">favorite</i></a></div></li>
 </ul>
+
+
+</div>
