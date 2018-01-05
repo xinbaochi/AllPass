@@ -40,6 +40,13 @@ source  -- 資源 (css/font/img/js)
 style.css -- 主要樣式表
 <br>
 請勿直接修改 materialize.min.css 樣式表，請透過寫入 style.css 使用 !important 取代
+範例參考
+```
+.input-field label{
+    -webkit-transform: none !important;
+}
+```
+
 <br>
 Google Icon 圖示 
 https://material.io/icons/ 
