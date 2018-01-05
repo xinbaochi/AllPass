@@ -3,36 +3,21 @@
 ## 調用
 
  頁首
- 
- <pre><code>
- 
-<?php include("part/header.php"); ?>
 
-</code></pre>
+```
+<?php include("part/header.php"); ?>
+```
+
 
 
 
  頁尾
  
-  <pre><code>
- 
-
-
-</code></pre>
 
 ```
 <?php include("part/footer.php"); ?>
 ```
 
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
 
 
 
