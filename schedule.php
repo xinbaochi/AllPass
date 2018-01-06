@@ -2,5 +2,7 @@
        
       <?php include("part/header.php"); ?>
 
-      <?php include("content/index-content.php"); ?>
+      <?php include("content/schedule-content.php"); ?>
       <?php include("part/footer.php"); ?> 
+
+   
