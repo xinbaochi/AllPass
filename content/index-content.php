@@ -1,11 +1,4 @@
 
-<nav>
-    <div class="nav-wrapper">
-      <div class="col s4">
-        <a href="index.php" class="breadcrumb">首頁</a>
-      </div>
-    </div>
-  </nav>
  <div class="row">
  
  

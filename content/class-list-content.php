@@ -1,13 +1,13 @@
+
+<div class="container index-content">
 <nav>
-    <div class="nav-wrapper">
+    <div class="cyan lighten-2 nav-wrapper">
       <div class="col s4">
         <a href="index.php" class="breadcrumb">首頁</a>
         <a href="#!" class="breadcrumb">核心通識-科學素養課程列表</a>
       </div>
     </div>
 </nav>
-<div class="container index-content">
-
 <ul class="collection with-header">
 <li class="collection-header"><h4>課程列表</h4></li>
 <li class="collection-item"><div>
