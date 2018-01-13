@@ -16,11 +16,11 @@
 	<a href="#!" class="secondary-content"><i class="material-icons">favorite_border</i></a></div></li>
 <li class="collection-item"><div>
 	<a href=".\class-info.php">現代戰爭理論</a>
-	&nbsp&nbsp<a href=".\class-info.php">胡忠信</a>
+	&nbsp&nbsp<a href=".\teacher-info.php">胡忠信</a>
 	<a href="#!" class="secondary-content"><i class="material-icons">favorite</i></a></div></li>
 <li class="collection-item"><div>
 	<a href=".\class-info.php">動手玩創意</a>
-	&nbsp&nbsp<a href=".\class-info.php">胡忠信</a>
+	&nbsp&nbsp<a href=".\teacher-info.php">胡忠信</a>
 	<a href="#!" class="secondary-content"><i class="material-icons">favorite</i></a></div></li>
 </ul>
 
