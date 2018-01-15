@@ -6,11 +6,12 @@
        <ul class="right hide-on-med-and-down">
        
          <li><a href="index.php">通識列表</a></li>
-         <li><a href="#">登入</a></li>
-         <li><a href="#">通知</a></li>
+         <li><a href="login.php">登入</a></li>
+         <li><a href="notification.php">通知</a></li>
          <li><a href="member-page.php">個人紀錄</a></li>
          <li><a href="member-timetable.php">課表</a></li>
          <li><a href="#">帳號設定</a></li>
+         <li><a href="#">後臺管理</a></li>
        </ul>
        <div class="right nav-wrapper">
       <form>
@@ -23,11 +24,12 @@
     </div>
        <ul id="nav-mobile" class="side-nav">
          <li><a href="index.php">通識列表</a></li>
-         <li><a href="#">登入</a></li>
+         <li><a href="login.php">登入</a></li>
          <li><a href="#">通知</a></li>
-         <li><a href="memberhistory.php">個人紀錄</a></li>
-         <li><a href="schedule.php">課表</a></li>
+         <li><a href="member-page.php">個人紀錄</a></li>
+         <li><a href="member-timetable.php">課表</a></li>
          <li><a href="#">帳號設定</a></li>
+         <li><a href="#">後臺管理</a></li>
        </ul>
        <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
      </div>
